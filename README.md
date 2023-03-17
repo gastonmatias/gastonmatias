@@ -6,7 +6,7 @@ I'm a computer engineer specialized in JS. I consider myself self-taught, highly
 I'm always studying to strengthen my knowledge and keep my skills up to date
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,py,django,cs,dotnet,linux,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,py,django,cs,dotnet,postgres,linux)](https://skillicons.dev)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gastonvillagra.vercel.app/)
