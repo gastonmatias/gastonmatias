@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello World, I'm Gastón Matias! 👋
+I'm a software developer based in Chile. 
 
-<!--
-**gastonmatias/gastonmatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a computer engineer specialized in JS. I consider myself self-taught, highly organized and persevering.
+I'm always studying to strengthen my knowledge and keep my skills up to date
 
-Here are some ideas to get you started:
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,py,django,cs,dotnet,linux,postgres)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gastonvillagra.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-villagra/)
